@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377900754000 344 a986273d976aa9afd561eadf97772160a6b61cd1 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/menu/main.xml
+1377900754000 29776 a0fb58c3bdc54ab2b5a21eaf2c4d93034657f63c /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1377900754000 247 7ae146058ee467e4a5e183f28309c32849b6004a /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/values-sw720dp-land/values.xml
+1377900754000 760 a0249f81e8a25b916c57d07e17a9d5eb5454f497 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/layout/activity_main.xml
+1377900754000 316 c65be044402dd425cd1b365e0c73e42f1ada4f34 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/values-v11/values.xml
+1377900754000 330 b603ebdee589afc5a57bbe22929e8af355c0e5cd /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/values-v14/values.xml
+1377900754000 9865 7b6225db1fa6dfa40efc64863efbd5e3386d24aa /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377900754000 4919 e74a114a8304b5e83be051810305cbb666ce2b12 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377900754000 15437 f29d51be1530d52294fb7fc67d525827bf5e61d9 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377900754000 1109 684270b11da5812d05280ef6b68459ce753f99e1 /home/markus/AndroidStudioProjects/AlphaProject/Alpha/build/res/all/debug/values/values.xml
